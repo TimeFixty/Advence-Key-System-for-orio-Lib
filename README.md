@@ -20,7 +20,11 @@ end
 
 
 Step 2:
-SOON
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TimeFixty/Advence-Key-System-for-orio-Lib/main/KEY%20PROTECT%20SOURCE", true))()
+
+Step:
+Done!
+
 
 the tabs and buttond and more to window:
 Check Orion Lib to see: https://github.com/shlexware/Orion/blob/main/Documentation.md

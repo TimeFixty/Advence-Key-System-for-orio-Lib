@@ -18,7 +18,6 @@ local Window = OrionLib:MakeWindow({Name = "Advence Keys System By Fizly Hub", H
 end
 
 
-you can make the tabs 
 
 Step 2:
 SOON

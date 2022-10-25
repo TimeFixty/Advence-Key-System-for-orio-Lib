@@ -15,12 +15,9 @@ local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shl
 
 local Window = OrionLib:MakeWindow({Name = "Advence Keys System By Fizly Hub", HidePremium = false, SaveConfig = true, ConfigFolder = "Credits Window"})
 
-
-
-
-
 end
------------------------------------------------
+
+
 you can make the tabs 
 
 Step 2:
